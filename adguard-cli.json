@@ -1,0 +1,15 @@
+{
+    "version": "0.2.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/jjuanrivvera/adguard-cli/releases/download/v0.2.1/adguard-cli_0.2.1_windows_amd64.zip",
+            "bin": [
+                "adguard-home.exe"
+            ],
+            "hash": "7b5eebba5f764dbf1aaf6e0f02c92deb0f4c4e69251d20b38e088546b397126d"
+        }
+    },
+    "homepage": "https://github.com/jjuanrivvera/adguard-cli",
+    "license": "MIT",
+    "description": "The missing command-line interface for AdGuard Home"
+}
