@@ -1,12 +1,12 @@
 {
-    "version": "0.5.6",
+    "version": "0.5.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jjuanrivvera/adguard-cli/releases/download/v0.5.6/adguard-cli_0.5.6_windows_amd64.zip",
+            "url": "https://github.com/jjuanrivvera/adguard-cli/releases/download/v0.5.7/adguard-cli_0.5.7_windows_amd64.zip",
             "bin": [
                 "adguard-home.exe"
             ],
-            "hash": "5c1af2fe9ea073d3d56ea449e4c58567acd25b013ebf57220873f9b67e253630"
+            "hash": "33b2750c3c58e41c71534e48c275ff22c1a408f3f28d6274a7058d8a3ca3bd95"
         }
     },
     "homepage": "https://github.com/jjuanrivvera/adguard-cli",
